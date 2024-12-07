@@ -22,7 +22,7 @@ public class HappyBirthdayVisualization extends JPanel {
         g.fillRect(240, 170, 20, 30); // Candle 2
 
         g.setColor(Color.RED);
-        g.drawString("Happy Birthday!NGOC PHUC", 110, 100); // Message
+        g.drawString("Happy Birthday! DOZIIII", 110, 100); // Message
 
         // Draw balloons (circles with strings)
         g.setColor(Color.BLUE);
